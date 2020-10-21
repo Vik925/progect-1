@@ -1,13 +1,25 @@
 {
   "name": "project-1",
   "version": "1.0.0",
-  "description": "test",
+  "description": "ddd",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test"
   },
-  "dependencies": {},
-  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vik925/progect-1.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vik925/progect-1/issues"
+  },
+  "homepage": "https://github.com/Vik925/progect-1#readme",
+  "dependencies": {
+    "gitignore": "^0.6.0",
+    "nodejs": "0.0.0",
+    "pug": "^3.0.0",
+    "yarn": "^1.22.10"
+  }
 }
